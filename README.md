@@ -45,4 +45,4 @@ projects, practice programs, and experiments.
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! More projects coming soon.
