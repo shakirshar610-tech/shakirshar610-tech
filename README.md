@@ -3,8 +3,7 @@
 ### BS Artificial Intelligence Student | Aspiring AI/ML Engineer | Data science | Software developer | Solving problems
 
 I'm an Artificial Intelligence student at **Aror University of Art, Architecture, Design & Heritage, Sukkur, Pakistan**, passionate about programming, AI-driven applications, and building practical solutions to real-world problems.
-
-I’m continuously strengthening my My skills, exploring modern AI tools, and developing projects that combine software development, data, and intelligent systems.
+Exploring modern AI tools, and developing projects that combine software development, data, and intelligent systems.
 
 ## About Me
 
