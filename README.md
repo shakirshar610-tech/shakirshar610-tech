@@ -1,4 +1,4 @@
-# Hi, I'm Shakir Hussain Shar
+# Hi, I'm Shakir Hussain
 
 ### BS Artificial Intelligence Student | Aspiring AI/ML Engineer | Software Developer
 
