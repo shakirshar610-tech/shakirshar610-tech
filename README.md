@@ -1,48 +1,84 @@
-# 👋 Hi, I'm Shakir
+# Hi, I'm Shakir Hussain Shar
 
-### 💻 Programming & AI Learner
+### BS Artificial Intelligence Student | Aspiring AI/ML Engineer | Software Developer
 
-I'm currently building my foundation in programming and exploring
-Artificial Intelligence, Data Science, and Machine Learning.
+I'm an Artificial Intelligence student at **Aror University of Art, Architecture, Design & Heritage, Sukkur, Pakistan**, passionate about programming, AI-driven applications, and building practical solutions to real-world problems.
 
-## 🧰 Technologies I'm Learning
+I’m continuously strengthening my programming fundamentals, exploring modern AI tools, and developing projects that combine software development, data, and intelligent systems.
 
-- C / C++
-- Python
-- Git & GitHub
-- Data Science
-- Machine Learning
-- Artificial Intelligence
+## About Me
 
-## 🚀 Current Focus
+- Currently pursuing a **BS in Artificial Intelligence**.
+- Learning and practicing Python, C++, and software development fundamentals.
+- Exploring Artificial Intelligence, Machine Learning, and Data Science.
+- Building practical projects, including agriculture technology and digital business tools.
+- Improving my problem-solving, Git, and GitHub workflow.
+- Interested in developing useful, reliable, and user-focused technology solutions.
 
-- Strengthening programming fundamentals
-- Building small practical projects
-- Learning Python for AI and data work
-- Improving problem-solving skills
-- Learning Git and GitHub workflows
+## Technical Skills
 
-## 📂 My Projects
+**Programming:** Python, C++, C
 
-### 🔹 C Programming
-Beginner-friendly C programming practice covering programming fundamentals,
-problem solving, and basic algorithms.
+**AI & Data:** Artificial Intelligence fundamentals, Machine Learning concepts, Data Science fundamentals, AI tools
 
-[View C Programs](https://github.com/shakirshar610-tech/C-programs)
+**Web & Development:** HTML, CSS, JavaScript fundamentals, React, TypeScript, WordPress
 
-## 🎯 Goals
+**Tools & Platforms:** Git, GitHub, VS Code, Vite, Supabase
 
-- Build strong programming fundamentals
-- Develop practical AI/ML projects
-- Improve problem-solving skills
-- Contribute to open-source projects
-- Build a strong professional GitHub portfolio
+*My skills are continuously developing through coursework, experimentation, and hands-on projects.*
 
-## 📈 Learning Journey
+## Featured Projects
 
-I'm learning step by step and documenting my progress through
-projects, practice programs, and experiments.
+### SmartKisan — Agriculture App
+An agriculture-focused application designed to support farmers in Pakistan through digital farming assistance and AI-oriented agricultural features.
+
+- Focus: Agriculture technology and AI-assisted farming
+- Technologies: React, TypeScript, Vite, Tailwind CSS
+- [View Repository](https://github.com/shakirshar610-tech/Smartkisan-Agriculture-App)
+- [Live Demo](https://smartkisan-farming-a-qeu0.bolt.host)
+
+### Digital Khata — Business Accounting App
+A digital accounting project focused on helping businesses manage everyday financial records more conveniently.
+
+- Focus: Digital bookkeeping and business management
+- [Explore My GitHub Repositories](https://github.com/shakirshar610-tech?tab=repositories)
+
+### C/C++ Programming
+A beginner-friendly collection of programming exercises and fundamental concepts developed while learning programming.
+
+- Focus: Programming fundamentals and problem-solving
+- [View C Programs](https://github.com/shakirshar610-tech/C-programs)
+
+### Python Projects
+A collection of projects for practicing Python syntax, logic, and practical programming skills.
+
+- [View Python Mini Projects](https://github.com/shakirshar610-tech/python-mini-projects)
+
+## Current Learning Goals
+
+- Strengthen Python and C++ programming.
+- Develop a solid foundation in AI and Machine Learning.
+- Learn data preparation, model evaluation, and practical AI workflows.
+- Build and document complete projects from idea to deployment.
+- Improve software engineering practices, testing, and version control.
+- Contribute to open-source projects and collaborate with other developers.
+
+## GitHub Activity
+
+I use GitHub to document my learning journey, maintain my projects, and track my progress as a developer.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakirshar610-tech&show_icons=true&hide_border=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakirshar610-tech&layout=compact&hide_border=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shakirshar610-tech&theme=github-dark-blue&hide_border=true)
+
+## Connect With Me
+
+- **GitHub:** [shakirshar610-tech](https://github.com/shakirshar610-tech)
+- **LinkedIn:** [Shakir Shar](https://www.linkedin.com/in/shakir-shar-984699440/)
 
 ---
 
-⭐ Thanks for visiting my profile! More projects coming soon.
+*Learning consistently. Building practically. Growing through technology.*
+
